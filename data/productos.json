@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "CHEMOTRINA",
+		"imagen": "img/chemotrina-insecticida-poder-volteo-cucarachas.jpg",
+		"precio": "50",
+		"detalles": ["Insecticida", "1,2 lt", "Uso Sistemico"]
+	},
+	{
+		"id": 2,
+		"marca": "LUFENURON",
+		"imagen": "img/demoledor-betacipermetrina-lufenuron.jpg",
+		"precio": "45",
+		"detalles": ["Insecticida", "0.50 a 1 lt", "Uso Agricola"]
+	},
+	{
+		"id": 3,
+		"marca": "PERMETRINA",
+		"imagen": "img/depe-permetrina-chemotecnica-casa.jpg",
+		"precio": "40",
+		"detalles": ["Herbicida", "1 lt", "Sistemico y de contacto"]
+	},
+	{
+		"id": 4,
+		"marca": "GLEXTRIN",
+		"imagen": "img/glextrin-25-cipermetrina-insecticida.jpg",
+		"precio": "59",
+		"detalles": ["Insecticida", "0.50 a 1 lt", "Sistemico"]
+	},
+	{
+		"id": 5,
+		"marca": "FLUFENOXUR",
+		"imagen": "img/tacazo-basf-alfacipermetrina-flufenoxuron.jpg",
+		"precio": "57",
+		"detalles": ["Herbicida", "1,5 lt", "Uso Sistemico"]
+	},
+	{
+		"id": 6,
+		"marca": "QUORUM",
+		"imagen": "img/quorum-250-fipronil.jpg",
+		"precio": "60",
+		"detalles": ["Insecticida", "2 lt", "Uso Agricola"]
+	},
+	{
+		"id": 7,
+		"marca": "MAXFORCE",
+		"imagen": "img/maxforce-forte-cucarachas-chiquitas-fipronil.jpg",
+		"precio": "50",
+		"detalles": ["Insecticida", "2 kg", "Uso exclusivo"]
+	},
+	{
+		"id": 8,
+		"marca": "RODILON",
+		"imagen": "img/rodilon-bloque-bayer.jpg",
+		"precio": "86",
+		"detalles": ["Herbicida", "2 kg", "Uso Sistemico"]
+	},
+	{
+		"id": 9,
+		"marca": "RODENTICIDA",
+		"imagen": "img/storm-1-kg-rodenticida-raticida-profesional.jpg",
+		"precio": "80",
+		"detalles": ["Raticida", "1 kg", "Uso exclusivo"]
+	}
+]
